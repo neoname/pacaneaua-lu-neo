@@ -1,6 +1,15 @@
 #include<iostream>
 
 int main(){
-	std::cout<<"work in progress mancati-as"<<std::endl;
+
+	int valoare = 500;
+	int pariu;
+	
+	
+	std::cout<<"Bine ai venit la Pacaneaua lu' neo"<<std::endl;
+	std::cout<<"Ai "<<valoare<<" euro."
+	std::cout<<"Baga cat vrei sa pierzi"<std::endl;
+	
+
 	return 0;
 }
